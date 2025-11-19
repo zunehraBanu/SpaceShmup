@@ -1,0 +1,19 @@
+# Unity Generated
+[Tt]emp/
+[Ll]ibrary/
+[Ll]ogs/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+UserSettings/
+
+# Visual Studio
+.vs/
+*.csproj
+*.sln
+*.user
+*.unityproj
+
+# System files
+.DS_Store
+Thumbs.db
